@@ -1,0 +1,4 @@
+id,name,birthday,gender,idCard,phone,email,customerType,address,useService
+76ac88cc740548cb8bb9285a20c7c6d9,Na,,12-1-1258,Male,123456789,12345678,abc@gmail.com,vip,f77a6b364f6b4eb9bb7e7f21af65f602
+a681fd5ea7e3419a8f883d4d7993d793,1,,,1,1,1,1,1,21c610e8707d467ebe99074e317da234
+c5abd22dba8f44c2a264f88022699c20,Trieu,12-12-1936,Male,123456789,123455687,a@mail.com,vip,ha,f77a6b364f6b4eb9bb7e7f21af65f602

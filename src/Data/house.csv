@@ -1,0 +1,4 @@
+id,nameServices,areaUsed,rentalCosts,numberOfPeople,typeRent,roomStandard,Convenient Description,numberOfFloors
+7032bdbded354616aec4630609318579,Vip,45.3,34.0,3,Vip,Vip,a,452
+d8016461b828455a88e068fc1e7e4f65,Hungau,34.0,22.0,2,day,Hung,,12
+5a029527709d4c3a9bfb508cd9198a25,Hung,45.0,445.0,3,hour,Hung,1,4

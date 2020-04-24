@@ -1,0 +1,11 @@
+id,name,birthday,gender,idCard,phone,email,customerType,address,useService
+76ac88cc740548cb8bb9285a20c7c6d9,Na,12-1-1258,Male,123456789,12345678,abc@gmail.com,vip,vip,null
+46300534ec644d5ab130e26908b5f2f8,Nam,12-05-1991,Male,123456789,1235458798,a@gmail.com,vip,dn,null
+c5abd22dba8f44c2a264f88022699c20,Trieu,12-12-1936,Male,123456789,123455687,a@mail.com,vip,ha,null
+e155672024ea4e6797d94658a181cfdc,Lan,12-12-1993,Male,123456789,123,a@gmail.com,Vip,QN,null
+269c2265607a4acdb87bf0db7a92388d,Viet,12-12-1996,Male,123456789,12,a@mail.com,Vip,dn,null
+f494a39779834477a3f41d4c83de37a8,Ma,12-12-1996,Male,123456789,12,a@mail.com,Vip,dn,
+40d79ca5246d4d89b7bc29cde2e9d90d,Ma,12-12-1995,Male,123456789,12,a@mail.com,Vip,dn,
+203aa969c86f4b9894abfd5b7239825d,Nam,12-12-1995,Male,123456789,12,a@mail.com,Vip,đà lạt,
+1d7a3d23cdbd40bdb4dec40b63d20d8f,Hai,28-11-1111,Male,123456789,072,abc@gmail.com,Vip,QuangNam,
+3befc194ef9c4dd8bacf408600c713b6,Nam,12-12-1698,Male,123456789,12,a@mail.com,vip,dn,

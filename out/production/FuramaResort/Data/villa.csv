@@ -1,0 +1,6 @@
+id,nameServices,areaUsed,rentalCosts,numberOfPeople,typeRent,roomStandard,areaPool,Convenient Description
+f77a6b364f6b4eb9bb7e7f21af65f602,5,5.0,5.0,0,5,5,5.0,5
+754f6c03528e4ce69d49b9422ddc4236,9,9.0,9.0,0,9,9,9.0,9
+21c610e8707d467ebe99074e317da234,4,4.0,4.0,0,4,4,4.0,4
+51483be6b3594744b67b34c3a5b5af4f,Hung,33.0,32.0,0,Hung,Hung,33.0,12
+ccaa70cc181d4a9984f4c337e7759a42,Hung,33.0,12454.0,123,Hung,Hung,213.0,123
