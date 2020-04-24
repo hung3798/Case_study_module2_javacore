@@ -1,5 +1,6 @@
 package Controllers;
 
+import Commons.Comparator.NameAgeCustomerComparator;
 import Commons.FuncWriteAndReadFileCSV;
 import Commons.Menu;
 import Commons.ScannerUntil;
@@ -7,6 +8,7 @@ import Commons.ValidateData;
 import Model.Customer;
 
 import java.io.IOException;
+import java.util.Collections;
 import java.util.List;
 import java.util.UUID;
 
@@ -60,6 +62,8 @@ public class CustomerController {
 
     public static void showInformationCustomer() throws IOException {
         List<Customer> customers = FuncWriteAndReadFileCSV.readCustomerCSV();
+
+        Collections.sort(customers, new NameAgeCustomerComparator());
 
         for (int i = 0; i < customers.size(); i++) {
             System.out.println((i + 1) + ". \t");

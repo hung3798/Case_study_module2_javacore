@@ -123,4 +123,16 @@ public class Customer {
                 + "\t use service: " + this.getServiceUse());
     }
 
+    public int getYearBirthday() {
+        String temp = "";
+        for (int i = birthday.length() - 4; i < birthday.length(); i++) {
+            temp += birthday.charAt(i);
+        }
+        return Integer.valueOf(temp);
+    }
+
+    public int getAge() {
+        Date date = new Date();
+        return date.getYear() - getYearBirthday();
+    }
 }
